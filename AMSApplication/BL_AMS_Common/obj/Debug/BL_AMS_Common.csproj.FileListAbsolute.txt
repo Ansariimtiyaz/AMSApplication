@@ -1,0 +1,5 @@
+G:\Demo Projects\AMSApplication\AMSApplication\BL_AMS_Common\bin\Debug\BL_AMS_Common.dll
+G:\Demo Projects\AMSApplication\AMSApplication\BL_AMS_Common\bin\Debug\BL_AMS_Common.pdb
+G:\Demo Projects\AMSApplication\AMSApplication\BL_AMS_Common\obj\Debug\BL_AMS_Common.csprojResolveAssemblyReference.cache
+G:\Demo Projects\AMSApplication\AMSApplication\BL_AMS_Common\obj\Debug\BL_AMS_Common.dll
+G:\Demo Projects\AMSApplication\AMSApplication\BL_AMS_Common\obj\Debug\BL_AMS_Common.pdb
